@@ -1,9 +1,10 @@
-id: opecha:P000406
+id: P000406
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC466
   title: 'བོད་བརྒྱུད་ནང་བསྟན་གྱིས་བོད་ཀྱི་སྲོལ་རྒྱུན་སྲིད་ཁྲིམས་གྱི་ངོ་བོ་དང་ད་སྔའི་གནས་སྟངས་ལ་ཤུགས་རྐྱེན་ཐེབས་པའི་སྐོར་ལ་ཅུང་ཙམ་དཔྱད་པ། '
-  volume:
+  author: ''
+  volumes:
     8574faea71b84d5b98c2a15f54a9c04d:
       image_group_id: I2PD18735
       title: Volume 1 of bod brgyud nang bstan gyis bod kyi srol rgyun srid khrims
@@ -11,7 +12,7 @@ source_metadata:
         tsam dpyad pa/
       volume_number: 1
       total_pages: 228
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'བོད་བརྒྱུད་ནང་བསྟན་གྱིས་བོད་ཀྱི་སྲོལ་རྒྱུན་སྲིད་ཁྲིམས་གྱི་ངོ་བོ་དང་ད་སྔའི་གནས་སྟངས་ལ་ཤུགས་རྐྱེན་ཐེབས་པའི་སྐོར་ལ་ཅུང་ཙམ་དཔྱད་པ། '
   author: ''
